@@ -10,11 +10,11 @@ body {
   width: 100%;
   height: 100vh;
   margin: 0;
-  background-color: #8ec5fc;
-  background: url(/images/weatherBg.jpg);
+  background: url(/images/cloudOneBg.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+  background-color: #020f1b;
   color: #fff;
   font-family: "Poppins", sans-serif;
   font-weight: 300;
